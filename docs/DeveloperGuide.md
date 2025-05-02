@@ -17,6 +17,8 @@ This project was adapted from [AB3](https://se-education.org/addressbook-level3/
 
 This project adapts the matriculation number checksum from [here](https://nusmodifications.github.io/nus-matriculation-number-calculator/) (source code provided [here](https://github.com/nusmodifications/nus-matriculation-number-calculator/blob/gh-pages/matric.js)).
 
+Xuezhou utilized AI tools (e.g., ChatGPT-4o, Copilot) to assist with code autocompletion and method refinement for more than half of the implementation.
+
 Online images are used for the icons of the attendance tags:
 * [Check Icon](https://www.iconsdb.com/white-icons/checkmark-icon.html)
 * [Cross Icon](https://www.iconsdb.com/white-icons/x-mark-icon.html)
