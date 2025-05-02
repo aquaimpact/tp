@@ -96,6 +96,7 @@ public class LogicManager implements Logic {
         storage.saveAddressBookToCsv(model.getAddressBook(), filePath);
     }
 
+    //@@author xuxuezhou
     /**
      * Loads an AddressBook from a Json file and updates the model.
      *
@@ -117,6 +118,7 @@ public class LogicManager implements Logic {
         }
     }
 
+    //@@author xuxuezhou
     @Override
     public void saveJson(Path filePath) throws IOException {
         storage.saveAddressBook(model.getAddressBook(), filePath);

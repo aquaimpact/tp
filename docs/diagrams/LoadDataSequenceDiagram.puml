@@ -1,3 +1,4 @@
+//@@author xuxuezhou
 @startuml
 actor User
 participant ":LogicManager" as Logic
